@@ -12,7 +12,7 @@ const ThankYou = (props) => {
               <br></br>
               <br></br>
               <br></br>
-                <h1 className="w3-xxlarge w3-text-light-grey">Thank you for signing up!</h1>
+                <h1 className="w3-xxlarge w3-text-black">Thank you for signing up!</h1>
             </div>
             </div>
             </div>      
